@@ -20,9 +20,9 @@ if __name__ == "__main__":
 
 
 def main():
-    nama = "Otniel Nyaua"
-    alamat = "Kel. Tendeadongi"
-    usia = 29
+    nama = "nama"
+    alamat = "alamat"
+    usia = 20
 
     print(nama)
     print(alamat)
